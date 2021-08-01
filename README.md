@@ -5,12 +5,10 @@ A simple solver for mathematical system of modulus equations
 
 -- C++ implimentation
 
-System type: ≡
+System type: 
 
-{
-  x ≡ a_n mod b_n
+x ≡ a_n mod b_n
+
+---------------
   
-  ---------------
-  
-  x ≡ a_m mod b_m
-}
+x ≡ a_m mod b_m
