@@ -9,6 +9,4 @@ System type:
 
 x ≡ a_n mod b_n
 
----------------
-  
 x ≡ a_m mod b_m
